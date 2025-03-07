@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(205, 239, 245);
-    color: white;
+    background-color: rgb(252, 255, 237);
+    color: rgb(26, 20, 20);
     font-family: 'Poppins', sans-serif;
     text-align: center;
     margin: 0;
@@ -16,20 +16,50 @@ body {
 
 h1 {
     font-size: 48px;
-    color: rgb(238, 22, 202);
+    color: rgb(45, 24, 117);
 }
 
 h2 {
     font-size: 36px;
-    color: rgb(55, 95, 14);
+    color: rgb(32, 31, 32) rgb(45, 24, 117);
 }
 
 p {
     font-size: 22px;
     line-height: 1.8;
-    color: rgb(182, 101, 219);
+    color: rgb(14, 12, 15);
 }
 img {
     max-width: 50%;
     height: auto;
+}
+.cantante {
+    margin-top: 80px; /* Espacio grande antes de la sección de flores favoritas */
+    background: linear-gradient(to right, #efb3f5, #fed6e3); /* Degradado diferente para esta sección */
+    border-radius: 15px;
+    padding: 30px;
+}
+.cantante2 {
+    margin-top: 80px; /* Espacio grande antes de la sección de flores favoritas */
+    background: linear-gradient(to right, #999799, #6d4552); /* Degradado diferente para esta sección */
+    border-radius: 15px;
+    padding: 30px;
+}
+.cantante3 {
+    margin-top: 80px; /* Espacio grande antes de la sección de flores favoritas */
+    background: linear-gradient(to right, #e7d2e9, #382f3f); /* Degradado diferente para esta sección */
+    border-radius: 15px;
+    padding: 30px;
+}
+.cantante4 {
+    margin-top: 80px; /* Espacio grande antes de la sección de flores favoritas */
+    background: linear-gradient(to right, #efb3f5, #fed6e3); /* Degradado diferente para esta sección */
+    border-radius: 15px;
+    padding: 30px;
+}
+.cantante5 {
+    margin-top: 80px; /* Espacio grande antes de la sección de flores favoritas */
+    background: linear-gradient(to right, #ecc7b1, #831414); /* Degradado diferente para esta sección */
+    border-radius: 15px;
+    padding: 30px;
 }
